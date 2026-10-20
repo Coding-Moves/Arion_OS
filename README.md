@@ -127,3 +127,7 @@ cd ~/buildtools/jam && make
 # Build the OS image
 HAIKU_REVISION=hrev57937_111 ~/buildtools/jam/bin.linuxx86/jam @vmware-image
 ```
+
+## Coding Moves Lab
+
+Arion OS is an experimental operating-system project in [Coding Moves Lab](https://codingmoves.netlify.app/lab/). The repository is public, but the project should be treated as a learning and development effort, not a ready-to-install operating system.
